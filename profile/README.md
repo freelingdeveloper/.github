@@ -1,10 +1,26 @@
-## Hi there 👋
+# [Freeling Developer](#)
 
+[![cover](https://github.com/freelingdeveloper/.github/raw/main/profile/cover.png)](#)
 
-**Here are some ideas to get you started:**
+## Who are we
+We are a diverse group of people who are united by our love for creating things. We believe that through the lens of creation and technology, we can discover the fun and beauty in everything around us.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+We don't believe in disciplinary boundaries. As we think that all knowledge is connected, and that by breaking down barriers we can learn more and create more interesting things.
+
+We connect people through events, meetups, hackathons, and much more. We strive to create an environment where creators can come together to collaborate, share ideas, and learn from each other.
+
+We stand for:
+
+Creativity: We believe that creativity is a fundamental human quality that should be nurtured and encouraged. We believe that everyone has the potential to be creative, and that the world is a better place when we all express our creativity.
+
+Empathy: We believe in putting ourselves in others' shoes, and using our skills to make a positive impact on the world.
+
+Fun: We believe that work should be enjoyable, and that every day is an opportunity to learn something new and have some fun.
+
+The name Creatorsgarten comes from the word creators and garten, as in Kindergarten, which means children's garden in German. We chose this name because we want to create a garden for all creators where they can come to create, learn, and share.
+
+We invite you to join us on this journey of exploration and creation. Together, let’s create things.
+
+## Links
+- Website: [Freeling Developer](#)
+- GitHub: [Freeling Developer](https://github.com/freelingdeveloper)
