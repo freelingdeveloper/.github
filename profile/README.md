@@ -1,1 +1,1 @@
-_Freeling Developer_
+_freeling developer_
