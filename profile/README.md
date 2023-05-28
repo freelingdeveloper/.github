@@ -1,5 +1,3 @@
-# [Freeling Developer](#)
-
 [![cover](https://github.com/freelingdeveloper/.github/raw/main/profile/cover.jpg)](#)
 
 ## Who are we
