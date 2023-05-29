@@ -1,1 +1,1 @@
-_freeling developer_
+_freedom of developers_
